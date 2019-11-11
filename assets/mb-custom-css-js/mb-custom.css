@@ -2,3 +2,7 @@
 .customTopPadding {
     padding-top: 80px;
 }
+
+.post-entry {
+    text-align: left;
+}
