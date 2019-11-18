@@ -1,8 +1,17 @@
 /* Custom padding for the title in the Facilities section */
+
 .customTopPadding {
     padding-top: 80px;
 }
 
 .post-entry {
+    text-align: left;
+}
+
+.disableCapital {
+    text-transform: lowercase;
+}
+
+.leftJustified {
     text-align: left;
 }
