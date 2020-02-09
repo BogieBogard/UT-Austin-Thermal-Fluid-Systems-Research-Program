@@ -15,3 +15,7 @@
 .leftJustified {
     text-align: left;
 }
+
+.removeTextTransform {
+    text-transform: none;
+}
